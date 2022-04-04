@@ -30,41 +30,13 @@ yarn dev
 
 ### Screenshots
 
-![](https://i.imgur.com/Xe5INK9.png)
-
-![](https://i.imgur.com/Z8YGY0s.png)
-
-![](https://i.imgur.com/z7xpktb.png)
-
-![](https://i.imgur.com/zpKqpdA.png)
-
-![](https://i.imgur.com/HgGTUYh.png)
-
-![](https://i.imgur.com/tqVtYkG.png)
-
-![](https://i.imgur.com/RDsecAC.png)
-
-![](https://i.imgur.com/ZGZecHj.png)
-
-![](https://i.imgur.com/mAPZ3xA.png)
-
-![](https://i.imgur.com/TSgxcYZ.png)
-
-![](https://i.imgur.com/oD6TDf4.png)
-
-![](https://i.imgur.com/q498MtU.png)
-
-![](https://i.imgur.com/q498MtU.png)
-
-![](https://i.imgur.com/KkHWCC3.png)
-
-![](https://i.imgur.com/ItCqFQR.png)
-
-![](https://i.imgur.com/cHPbFYv.png)
-
-![](https://i.imgur.com/X9H2tUP.png)
-
-![](https://i.imgur.com/uTPBoq3.png)
+|            Portrait Dark             |            Landscape Dark            |            Portrait Light            |           Landscape Light            |
+| :----------------------------------: | :----------------------------------: | :----------------------------------: | :----------------------------------: |
+| ![](https://i.imgur.com/Xe5INK9.png) | ![](https://i.imgur.com/RDsecAC.png) | ![](https://i.imgur.com/TSgxcYZ.png) | ![](https://i.imgur.com/oD6TDf4.png) |
+| ![](https://i.imgur.com/Z8YGY0s.png) | ![](https://i.imgur.com/ZGZecHj.png) | ![](https://i.imgur.com/q498MtU.png) | ![](https://i.imgur.com/KkHWCC3.png) |
+| ![](https://i.imgur.com/z7xpktb.png) | ![](https://i.imgur.com/mAPZ3xA.png) | ![](https://i.imgur.com/ItCqFQR.png) | ![](https://i.imgur.com/cHPbFYv.png) |
+| ![](https://i.imgur.com/zpKqpdA.png) | ![](https://i.imgur.com/tqVtYkG.png) | ![](https://i.imgur.com/X9H2tUP.png) | ![](https://i.imgur.com/uTPBoq3.png) |
+| ![](https://i.imgur.com/HgGTUYh.png) |                                      |                                      |                                      |
 
 ### Observações
 

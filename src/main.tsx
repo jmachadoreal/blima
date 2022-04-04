@@ -25,7 +25,6 @@ import { ReactHooksWrapper } from 'react-hooks-outside'
 import { SafeAreaProvider } from 'react-native-safe-area-context'
 import { SWRConfig } from 'swr'
 
-import { fetcher } from 'config/http'
 import { theme, ThemeProvider } from 'config/theme'
 
 import 'dayjs/locale/pt-br'
@@ -73,11 +72,7 @@ export default function Main() {
   }
 
   return (
-    <SWRConfig
-      value={{
-        fetcher
-      }}
-    >
+    <SWRConfig>
       <SafeAreaProvider>
         <ThemeProvider theme={theme}>
           <ReactHooksWrapper />

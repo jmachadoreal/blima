@@ -73,16 +73,9 @@ const LocationProvider: React.FC = ({ children }) => {
 
     updateLoc([latitude, longitude])
 
-    const [location] = await Location.reverseGeocodeAsync({
-      latitude,
-      longitude
-    })
-
     setMyLoc([latitude, longitude])
 
-    updateLabel(
-      `${location.city}, ${location.region} - ${location.isoCountryCode}`
-    )
+    updateLabel('Localização atual')
 
     setDecoding(false)
   }, [])
